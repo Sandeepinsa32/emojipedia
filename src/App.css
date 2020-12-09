@@ -1,3 +1,8 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 .App {
   text-align: center;
 }
@@ -9,7 +14,7 @@
 }
 .input-box{
       padding: 1rem;
-      width: 45%;
+      width: 55%;
       margin: 3rem 1rem;
 }
 .main-icon{
